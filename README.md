@@ -8,7 +8,7 @@ El proyecto está organizado de una manera limpia y escalable, separando el cód
 
 Descargador-Pro/
 
-
+```
 ├── .gitignore              # Archivo para que Git ignore carpetas temporales
 ├── README.md               # La documentación que estás leyendo
 ├── requirements.txt        # Las dependencias de Python del proyecto
@@ -25,7 +25,7 @@ Descargador-Pro/
 │
 ├── dist/                   # (Generada) Aquí aparece el .exe tras compilar
 └── build/                  # (Generada) Carpeta temporal de PyInstaller
-
+```
 
 ✨ Características
 Descarga Multiformato: Elige entre descargar el vídeo completo en MP4 o extraer únicamente el audio en MP3.
