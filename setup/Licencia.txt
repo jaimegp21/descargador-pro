@@ -1,0 +1,27 @@
+-----------------------------------------------------------------
+ACUERDO DE LICENCIA Y TÉRMINOS DE USO PARA "DESCARGADOR PRO"
+-----------------------------------------------------------------
+
+POR FAVOR, LEE ATENTAMENTE LOS SIGUIENTES TÉRMINOS ANTES DE INSTALAR O UTILIZAR ESTE SOFTWARE.
+
+Al instalar o utilizar "Descargador Pro" (en adelante, "el Software"), aceptas estar sujeto a los términos de este acuerdo. Si no estás de acuerdo, no instales ni utilices el Software.
+
+**1. LICENCIA**
+
+Este Software se distribuye bajo la Licencia MIT. Copyright (c) 2025 Jaime Gamero Pérez.
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados, para tratar el Software sin restricción, incluyendo sin limitación los derechos de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias del Software.
+
+**2. AVISO SOBRE COPYRIGHT Y RESPONSABILIDAD**
+
+El Software es una herramienta diseñada para descargar contenido de plataformas públicas. El uso que se le dé a esta herramienta es de exclusiva responsabilidad del usuario final.
+
+* **Uso Responsable**: Debes respetar los derechos de autor y los términos de servicio de cualquier plataforma de la que descargues contenido.
+* **Sin Afiliación**: Este Software no está afiliado, asociado, autorizado, respaldado por, ni conectado oficialmente de ninguna manera con YouTube o cualquiera de sus subsidiarias o afiliadas.
+* **Contenido**: El autor de este Software no se hace responsable del contenido que el usuario decida descargar. La responsabilidad de no infringir las leyes de copyright recae enteramente sobre el usuario.
+
+**3. EXENCIÓN DE GARANTÍA**
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA FORMA, QUE SURJAN DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.

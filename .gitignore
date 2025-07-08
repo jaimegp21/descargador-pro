@@ -1,0 +1,17 @@
+# Archivos de caché y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Carpetas y archivos generados por PyInstaller
+*.spec
+build/
+dist/
+
+# Carpeta de salida de Inno Setup
+Instalador_Final/
+Instalador_Output/
